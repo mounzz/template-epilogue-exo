@@ -160,7 +160,7 @@ header {
     background: url(../images/pic01.jpg);
     height:calc(0.5 * 30vw);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size:contain;
     color: white;
     font-family: sans-serif;
     display: flex;
@@ -189,6 +189,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 .Card-3 .titleCard {
     background: url(../images/pic03.jpg);
@@ -212,6 +213,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 /* LAST CONTAINER */
